@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<Head>
+    <meta charset="UTF-8">
+    <title>Mock 1</title>
+</Head>
+<body>
+    <h1>This is your First HTML page!</h1>
+
+    <h3>Seems liek things are going pretty well</h3>
+
+    <h6>Let's add the recipe for some delicious chocolate chip cookies</h6>
+
+    <img src="http://www.chick-fil-a.com/Media/Img/catalog/Food/XLarge/Cookie.png" height=300 width=300>
+
+    <p>Here is what the recipe calls for </p>
+    
+    <u1><b>Ingredients</b> (probably not correct)
+        <1i>6 eggs</1i>
+        <1i>2 Cups of flour</1i>
+        <1i>2 Tablespoons of vanilla</1i>
+        <1i>2 Teaspoons of baking powder</1i>
+        <1i>1 Cup of Sugar</1i>
+    </u1>
+
+    <o1><b>Instructions</b> (may or may not be correct)
+        <1i>1. Add eggs, flour, and vanilla extract and mix</1i>
+        <1i>2. Combine with sugar and baking powder and stir</1i>
+        <1i>3.Eat half the cookie batter</1i>
+        <1i>Take the rest of the batter and make cookies</1i>
+    </o1>
+
+    <hr>
+    Oh you do not trust us? You want to see the actual recipe?? You can click here <a href="#">here></a>
+    
+</body>
+</html>
